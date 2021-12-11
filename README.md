@@ -5,8 +5,7 @@
 **I am Ashish Vajpayee** 
 
 
-- 🔭 I’m currently working on Full Stack :wink:
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working on Full Stack :wink: 
 - 📫 How to reach me: [@ashishvajpayee](https://linkedin.com/ashishvajpayee) or [@AshishVajpayee6](https://twitter.com/AshishVajpayee6) 
 
 ## 🔧 Technologies & Tools
