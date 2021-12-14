@@ -1,13 +1,15 @@
 ### <h3>Hi there 👋 </h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshishVajpayee.AshishVajpayee)
+**I am Ashish Vajpayee,** 
 
-**I am Ashish Vajpayee** 
-
-
-- 🔭 I’m currently working on Full Stack :wink: 
+```
+- 🔭 print("I’m currently working on Full Stack") 
+```
 - 📫 How to reach me: [@ashishvajpayee](https://linkedin.com/ashishvajpayee) or [@AshishVajpayee6](https://twitter.com/AshishVajpayee6) 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshishVajpayee.AshishVajpayee)<br>
+<a href="https://www.youtube.com/channel/UCI6vRtE7i4nBoIB8UEtYqXg/?sub_confirmation=1"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+<br>
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -29,10 +31,10 @@
 <br>
 🔗 &nbsp; Connect with me
 <a href="https://twitter.com/AshishVajpayee6">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ashish | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ashishvajpayee/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ashish LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCI6vRtE7i4nBoIB8UEtYqXg/?sub_confirmation=1"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
