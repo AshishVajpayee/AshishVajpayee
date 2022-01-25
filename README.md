@@ -2,8 +2,8 @@
 
 **I am Ashish Vajpayee,** 
 
-```
-- 🔭 print("I’m currently working on Full Stack") 
+```python
+print("I’m currently working on Full Stack") 
 ```
 - 📫 How to reach me: [@ashishvajpayee](https://linkedin.com/ashishvajpayee) or [@AshishVajpayee6](https://twitter.com/AshishVajpayee6) 
 
