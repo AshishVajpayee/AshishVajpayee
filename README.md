@@ -47,7 +47,8 @@ print("I’m currently working on Full Stack")
 ## Youtube Channel
 
 📕 &nbsp;**YT Tutorials**
-<!-- BLOG-POST-LIST:START -->
+<!-- YTBLOG-POST-LIST:START -->
+- [PyScript | Run Python inside your HTML](https://www.youtube.com/embed/_emBnklfCr8?start=88)
 - [Getting Started with Flutter Part-1](https://youtu.be/0yfWzw1miw8)<img align = "left" src="https://img.shields.io/youtube/views/0yfWzw1miw8?style=social" />
 - [Getting started with Flutter Part-2](https://youtu.be/tJdJE1Tz6C0)
  
